@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **shubham2107patel@gmail.com**
 
+- 🤝 Solving problems on codechef and leetcode
+
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
