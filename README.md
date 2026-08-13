@@ -47,7 +47,7 @@ the difference between software that works and software that keeps working.
 
 <br />
 
-## 🗓️ Timeline
+## 🔓 Open source
 
 <!--
   Self-contained animated SVG: types itself out line by line, in Geist Mono
@@ -58,15 +58,16 @@ the difference between software that works and software that keeps working.
   <img>-embedded SVG. Verified: it animates via <img>, exactly how GitHub embeds it.
 
   Fail-visible by design: the hidden state lives in the keyframe's `from`, not as a
-  static clip-path, so a renderer that ignores CSS shows the FULL timeline rather
-  than an empty terminal. Verified by stripping the <style> block and re-rendering.
+  static clip-path, so a renderer that ignores CSS shows the FULL list rather than
+  an empty terminal. Verified by stripping the <style> block and re-rendering.
 
-  Generated from the timeline data behind shubhampatelv3.vercel.app/about;
-  regenerate and re-commit the SVG when those entries change.
+  Every PR listed is genuinely MERGED, verified through the GitHub search API.
+  Closed-but-unmerged work is excluded on purpose: a claim that breaks when the
+  reader clicks through is worse than a shorter list.
 -->
 
 <div align="center">
-  <img src="assets/timeline-terminal.svg" width="560" alt="Terminal printing my career timeline. NIT Warangal — M.Tech, Computer Science and Engineering, Aug 2026 to present, Warangal IN, current. Nasdaq Inc — Software Engineer, Jan 2024 to Jul 2025, Pune IN, worked on Regulatory Reporting Solutions supporting development and maintenance of automated regulatory reporting workflows. Symbiosis Institute of Technology — B.Tech, Computer Science and Engineering, Jun 2020 to Jan 2024, Pune IN." />
+  <img src="assets/contrib-terminal.svg" width="560" alt="Terminal listing merged pull requests. OWASP/wrongsecrets, 1.4k stars, five merged pull requests covering secrets, Kubernetes and Docker: number 1790, Challenge52 secret mounted at build; 1668, Challenge51 docker secret in code; 1452, Sealed Secret in Kubernetes challenge; 1235, Simplified Kubernetes integration test; 1239, Update theme toggle switch. 25 merged pull requests across 7 repositories in total, full record at shubhampatelv3.vercel.app/contributions." />
 </div>
 
 <br />
